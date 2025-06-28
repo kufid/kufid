@@ -5,7 +5,7 @@ _A completely unnecessary alternative to UUIDs — and proud of it._
 
 🚧 This project is under construction.  
 📦 `npm install kufid` → coming soon  
-🥸 We're working on something uselessly delightful.
+We're working on something uselessly delightful.
 
 ---
 
