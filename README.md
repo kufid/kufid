@@ -1,4 +1,4 @@
-# 🥸 KUFID
+# KUFID
 
 **Kinda Unnecessary Funny Identifier**  
 _A completely unnecessary alternative to UUIDs — and proud of it._
