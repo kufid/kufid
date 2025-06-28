@@ -31,6 +31,19 @@ Because UUIDs are:
 
 ---
 
+### 🧏 How do you pronounce “KUFID”?
+
+Nobody agrees. Some say **“KOO-fid”** (rhymes with “lucid”), others insist on **“KEU-fid”** (like a Québécois cousin of “Cupid”). There are also reports of developers mumbling **“cue-FEED”** under their breath while staring at logs, and one brave soul in Helsinki pronounces it **“K’yooph-yeed”** — we don’t ask why.
+
+It has no official pronunciation.  
+It never will.  
+The only correct way is with confidence.
+
+> Say it like you mean it — even if you're making it up.
+
+
+---
+
 ## ✨ Features (actual and upcoming)
 
 - ✅ 100% **word-based** IDs — no numbers, no gibberish
