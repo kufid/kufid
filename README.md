@@ -39,12 +39,3 @@ Because UUIDs are:
 - 🔜 Themes, emoji modes, and francophone flair
 - 🧼 Optional “safe mode” to avoid spicy words
 
----
-
-## 🧪 Example
-
-```ts
-import { kufid } from 'kufid'
-
-const id = kufid()
-// → 'grumpy-poutine'
