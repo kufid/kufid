@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="170" height="28">
+  <linearGradient id="b" x2="0" y2="100%">
+    <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+  <mask id="a">
+    <rect width="170" height="28" rx="4" fill="#fff"/>
+  </mask>
+  <g mask="url(#a)">
+    <rect width="110" height="28" fill="#555"/>
+    <rect x="110" width="60" height="28" fill="#f97f29"/>
+    <rect width="170" height="28" fill="url(#b)"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12">
+    <text x="55" y="19">Totally Not a UUID</text>
+    <text x="139" y="19">🥸</text>
+  </g>
+</svg>
