@@ -1,5 +1,8 @@
 # KUFID
 
+![KUFID badge](https://raw.githubusercontent.com/kufid/kufid/main/badge-not-uuid.svg)
+
+
 **Kinda Unnecessary Funny Identifier**  
 _A completely unnecessary alternative to UUIDs — and proud of it._
 
