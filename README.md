@@ -52,6 +52,3 @@ The only correct way is with confidence.
 - ✅ 100% **word-based** IDs — no numbers, no gibberish
 - ✅ Human-friendly and vaguely memorable
 - ❌ Not cryptographically secure — that's kind of the point
-- 🔜 Themes, emoji modes, and francophone flair
-- 🧼 Optional “safe mode” to avoid spicy words
-
